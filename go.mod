@@ -31,7 +31,7 @@ require (
 	github.com/pkg/errors v0.9.1
 	github.com/radovskyb/watcher v1.0.7
 	github.com/sendgrid/rest v2.6.0+incompatible // indirect
-	github.com/sendgrid/sendgrid-go v3.7.2+incompatible
+	github.com/sendgrid/sendgrid-go v3.8.0+incompatible
 	github.com/spf13/viper v1.7.1
 	github.com/steveyen/gtreap v0.0.0-20150807155958-0abe01ef9be2 // indirect
 	github.com/stretchr/testify v1.7.0
